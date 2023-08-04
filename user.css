@@ -1,0 +1,36 @@
+body{
+   background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+}
+div{
+    background-color: white;
+    height: 470px;
+    width: 400px;
+    margin: auto;
+    text-align: center;
+    padding: 10px 0px;
+}
+form{
+    padding: 30px 0px;
+}
+label{
+    color: aquamarine;
+    text-align: left;
+    margin-left: -240px;
+    font-size: 21px;
+}
+input{
+    width: 80%;
+    height: 40px;
+}
+button{
+    width: 80%;
+    height: 60px;
+    background-color: aquamarine;
+    color: black;
+    font-size: 30px;
+}
+h1{
+    font-size: 35px;
+    margin-top: 20px;
+}
